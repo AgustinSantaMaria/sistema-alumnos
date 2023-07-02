@@ -1,0 +1,14 @@
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\netcoreapp3.1\SistemaAlumnos.exe
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\netcoreapp3.1\SistemaAlumnos.deps.json
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\netcoreapp3.1\SistemaAlumnos.runtimeconfig.json
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\netcoreapp3.1\SistemaAlumnos.runtimeconfig.dev.json
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\netcoreapp3.1\SistemaAlumnos.dll
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\netcoreapp3.1\SistemaAlumnos.pdb
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\netcoreapp3.1\SistemaAlumnos.csproj.AssemblyReference.cache
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\netcoreapp3.1\SistemaAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\netcoreapp3.1\SistemaAlumnos.AssemblyInfoInputs.cache
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\netcoreapp3.1\SistemaAlumnos.AssemblyInfo.cs
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\netcoreapp3.1\SistemaAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\netcoreapp3.1\SistemaAlumnos.dll
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\netcoreapp3.1\SistemaAlumnos.pdb
+C:\Users\Agustin\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\netcoreapp3.1\SistemaAlumnos.genruntimeconfig.cache
